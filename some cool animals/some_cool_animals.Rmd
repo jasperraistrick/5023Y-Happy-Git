@@ -62,11 +62,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ##### Grogu Facts:
 
--Also known as "The Child"
-
--likes unfertilised frog eggs & control knobs
-
--strong with the force
+- Also known as "The Child"
+- likes unfertilised frog eggs & control knobs
+- strong with the force
 
 ----------
 **Disclaimer:** This document is only for R Markdown & GitHub teaching purposes
